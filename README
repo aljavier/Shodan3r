@@ -1,0 +1,7 @@
+Script basico para buscar en Shodan. Algunas cosas faltan por hacer aun, o muchas cosas.
+
+Requiere la libreria de Shodan.
+
+easy_install shodan
+
+Testeado en Debian Wheezy.
